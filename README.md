@@ -6,3 +6,4 @@
 - React-Redux TodoList: https://codesandbox.io/s/react-redux-todolist-6zqlt?file=/src/index.js
 - React-Redux-HOC: https://codesandbox.io/s/gifted-johnson-ql0oh?file=/src/components/requireAuth.js
 - React-Redux-SelectSongs-Example: https://codesandbox.io/s/dreamy-http-t2xz9?file=/src/components/SongList.js
+- React-Redux-Counter: https://codesandbox.io/s/react-redux-counter-pxl1y?file=/src/components/Counter.js
