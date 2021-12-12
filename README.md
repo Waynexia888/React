@@ -9,3 +9,4 @@
 - React-Redux-Counter: https://codesandbox.io/s/react-redux-counter-pxl1y?file=/src/components/Counter.js
 -React Hook: https://codesandbox.io/s/hopeful-rain-80ydd?file=/src/components/Accordion.js
 -react Router: https://codesandbox.io/s/kind-dawn-j4m7r?file=/src/components/App.js
+- React Upload: https://codesandbox.io/s/amazing-spence-be95n?file=/src/App.js
